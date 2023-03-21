@@ -1,0 +1,7 @@
+CMake Error at D:/ESP-IDF/esp-idf/tools/cmake/build.cmake:519 (message):
+Call Stack (most recent call first):
+  D:/ESP-IDF/esp-idf/tools/cmake/project.cmake:440 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+ninja: error: rebuilding 'build.ninja': subcommand failed

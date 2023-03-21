@@ -1,0 +1,10 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32",
+  "idf.portWin": "COM10",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "arduinoocppmongooseclient_c.h": "c",
+    "mongoose.h": "c"
+  }
+}

@@ -1,0 +1,6 @@
+[0/1] Re-running CMake...
+-- ccache will be used for faster recompilation
+-- Configuring incomplete, errors occurred!
+See also "D:/ESP-IDF/OCPP_MESH/ip_internal_network/build/CMakeFiles/CMakeOutput.log".
+FAILED: build.ninja 
+D:\IDF_TOOLS\tools\cmake\3.24.0\bin\cmake.exe --regenerate-during-build -SD:\ESP-IDF\OCPP_MESH\ip_internal_network -BD:\ESP-IDF\OCPP_MESH\ip_internal_network\build

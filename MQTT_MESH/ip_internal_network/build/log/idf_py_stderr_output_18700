@@ -1,0 +1,8 @@
+CMake Error at D:/ESP-IDF/esp-idf/tools/cmake/component.cmake:312 (message):
+  Include directory 'D:/ESP-IDF/MQTT_MESH/ip_internal_network/include' is not
+  a directory.
+Call Stack (most recent call first):
+  D:/ESP-IDF/esp-idf/tools/cmake/component.cmake:486 (__component_add_include_dirs)
+  D:/ESP-IDF/esp-idf/components/ArduinoOcpp/CMakeLists.txt:72 (idf_component_register)
+
+
