@@ -1,0 +1,14 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32",
+  "idf.portWin": "COM7",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "mbcontroller.h": "c"
+  },
+  "idf.customAdapterTargetName": "TTGO",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32.cfg"
+  ]
+}
